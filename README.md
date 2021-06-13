@@ -9,7 +9,7 @@
 <a href="https://github.com/VictorSilva15/NikeSportsAir-PageWeb/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/VictorSilva15/NikeSportsAir-PageWeb?style=for-the-badge"></a>
 <a href="https://www.codewars.com/users/Victor%20Hugo%20da%20Silva" target="_blank"><img alt="CodeWars" src="https://img.shields.io/static/v1?label=Follow&message=CodeWars&color=B1361E&style=for-the-badge&logo=codewars"></a>
 
-Essa página web foi produzida com auxílio do vídeo [How To Make Product Page On Website Using HTML And CS | Beautiful Website Design](https://youtu.be/YuDH0PSlGwg) do canal Easy Tutorials, onde é mostrado como produzir uma página web simples e bonito com HTML e CSS. Nesse versão eu atualizei a página inserindo um botão para trocar o tema de dark para light e vice-versa além de deixar o site responsivo, permitindo a adaptação da página em diferentes tamanhos de telas.
+Essa página web foi produzida com auxílio do vídeo [How To Make Product Page On Website Using HTML And CS | Beautiful Website Design](https://youtu.be/YuDH0PSlGwg) do canal Easy Tutorials. No vídeo é mostrado como produzir uma página web simples e bonita com HTML e CSS. Nesse versão eu atualizei a página inserindo um botão para trocar o tema de dark para light e vice-versa além de deixar o site responsivo, permitindo a adaptação da página em diferentes tamanhos de telas.
 
 <h2>Status do Projeto</h2>
 
