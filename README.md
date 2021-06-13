@@ -22,7 +22,7 @@ Essa página web foi produzida com auxílio do vídeo [How To Make Product Page 
 
 - Mobile (responsivo):
 
-<img  src="./screenshots/light-mode-mobile.png"  alt="light-mode-mobile"/><img  src="dark-mode-mobile.png"  alt="dark-mode-mobile"/>
+<img  src="./screenshots/light-mode-mobile.png"  alt="light-mode-mobile"/><img  src="./screenshots/dark-mode-mobile.png"  alt="dark-mode-mobile"/>
 
 <h2>Como usar</h2>
 
