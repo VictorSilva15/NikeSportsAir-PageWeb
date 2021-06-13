@@ -13,7 +13,7 @@ Essa página web foi produzida com auxílio do vídeo [How To Make Product Page 
 
 <h2>Status do Projeto</h2>
 
-<h4> 🚀 Finzalizado 👍 </h4>
+<h4> 🚀 Finalizado 👍 </h4>
 
 <h2>Pré-requisitos</h2>
 
