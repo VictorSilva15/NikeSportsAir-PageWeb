@@ -14,21 +14,21 @@ Essa página web foi produzida com auxílio do vídeo [How To Make Product Page 
 
 - Tema Light:
 
-<img  src="./screenshots/light-mode-desktop"  alt="light-mode-desktop"/>
+<img src="./screenshots/light-mode-desktop.png"  alt="light-mode-desktop"/>
 
 - Tema Dark:
 
-<img  src="./screenshots/dark-mode-desktop"  alt="dark-mode-desktop"/>
+<img src="./screenshots/dark-mode-desktop.png"  alt="dark-mode-desktop"/>
 
 - Mobile (responsivo):
 
-<img  src="./screenshots/light-mode-mobile"  alt="light-mode-mobile"/><img  src="dark-mode-mobile"  alt="dark-mode-mobile"/>
+<img  src="./screenshots/light-mode-mobile.png"  alt="light-mode-mobile"/><img  src="dark-mode-mobile.png"  alt="dark-mode-mobile"/>
 
 <h2>Como usar</h2>
 
 Esse projeto não está hospedado ainda por tanto se você quiser testar em sua máquina basta baixar ele através do botão CODE em verde do lado do repositório e em seguida escolher Download ZIP que os arquivos iram para sua área de download.Após extrair a pasta do projeto para sua área de trabalho basta entrar na pasta NikeSportsAir-PageWeb e dar um duplo clique em cima do arquivo index.html que ele será aberto na seu navegador.
 
-<img  src="./screenshots/forma-de-baixar-projeto"  alt="forma de baixar projeto">
+<img  src="./screenshots/forma-de-baixar-projeto.png"  alt="forma de baixar projeto">
 
 ### 🛠 Tecnologias
 
