@@ -1,6 +1,8 @@
 # NIKE SPORTS AIR
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=HTML5&color=E34F26&style=for-the-badge&logo=badges/html5"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=HTML5&color=E34F26&style=for-the-badge&logo=HTML5"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=CSS3&color=1572B6&style=for-the-badge&logo=CSS3"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript"></a>
 
 Essa página web foi produzida com auxílio do vídeo [How To Make Product Page On Website Using HTML And CS | Beautiful Website Design](https://youtu.be/YuDH0PSlGwg) do canal Easy Tutorials, onde é mostrado como produzir uma página web simples e bonito com HTML e CSS. Nesse versão eu atualizei a página inserindo um botão para trocar o tema de dark para light e vice-versa além de deixar o site responsivo, permitindo a adaptação da página em diferentes tamanhos de telas.
 
