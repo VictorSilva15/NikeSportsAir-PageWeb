@@ -1,13 +1,13 @@
 # NIKE SPORTS AIR
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=HTML5&color=E34F26&style=for-the-badge&logo=HTML5"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=CSS3&color=1572B6&style=for-the-badge&logo=CSS3"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=HTML5&color=E34F26&style=for-the-badge&logo=HTML5"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=CSS3&color=1572B6&style=for-the-badge&logo=CSS3"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript"></a>
 <a href="https://github.com/VictorSilva15/NikeSportsAir-PageWeb/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/VictorSilva15/NikeSportsAir-PageWeb?style=for-the-badge"></a>
 <a href="https://github.com/VictorSilva15/NikeSportsAir-PageWeb/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/VictorSilva15/NikeSportsAir-PageWeb?style=for-the-badge"></a>
 <a href="https://github.com/VictorSilva15/NikeSportsAir-PageWeb/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/VictorSilva15/NikeSportsAir-PageWeb?style=for-the-badge"></a>
 <a href="https://github.com/VictorSilva15/NikeSportsAir-PageWeb/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/VictorSilva15/NikeSportsAir-PageWeb?style=for-the-badge"></a>
-<a href="https://www.codewars.com/users/Victor%20Hugo%20da%20Silva" target="_blank"><img alt="CodeWars" src="https://img.shields.io/static/v1?label=Follow&message=CodeWars&color=B1361E&style=for-the-badge&logo=codewars"></a>
+<a href="https://www.codewars.com/users/Victor%20Hugo%20da%20Silva" target="blank"><img alt="CodeWars" src="https://img.shields.io/static/v1?label=Follow&message=CodeWars&color=B1361E&style=for-the-badge&logo=codewars"></a>
 
 Essa página web foi produzida com auxílio do vídeo [How To Make Product Page On Website Using HTML And CS | Beautiful Website Design](https://youtu.be/YuDH0PSlGwg) do canal Easy Tutorials. No vídeo é mostrado como produzir uma página web simples e bonita com HTML e CSS. Nesse versão eu atualizei a página inserindo um botão para trocar o tema de dark para light e vice-versa além de deixar o site responsivo, permitindo a adaptação da página em diferentes tamanhos de telas.
 
